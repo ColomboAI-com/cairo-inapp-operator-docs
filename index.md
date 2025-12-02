@@ -9,7 +9,7 @@
 
 CAIRO is the world’s first **In-App Operator** — a framework that turns traditional software, robots, and web platforms into **autonomous, context-aware, goal-driven systems**.
 
-Where most tools stop at “AI assistants” or “agents,” CAIRO brings **Operational Intelligence**: it doesn’t just answer questions, it operates applications, workflows, and interfaces through a unified SDK.
+Where most tools stop at “AI assistants” or “agents,” CAIRO brings **Operational Intelligence**: it doesn’t just answer questions, it operates applications, workflows, and interfaces through a unified SDK. 
 
 ---
 
