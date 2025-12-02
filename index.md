@@ -111,7 +111,7 @@ Sub-20ms latency and multi-tier caching
 npm install cairo-sdk
 # or
 yarn add cairo-sdk
-🔑 Getting Your API Key
+# 🔑 Getting Your API Key
 Go to the ColomboAI Platform
 
 Sign up or log in
@@ -126,7 +126,7 @@ Add it to your environment:
 CAIRO_API_KEY=sk-your-api-key-here
 Your API key is required for authentication, usage tracking, and skills-first optimization.
 
-⚡ Quick Start (Minimal Setup)
+# ⚡ Quick Start (Minimal Setup)
 Only an API key is required — everything else is handled automatically by the SDK.
 
 import { Cairo } from 'cairo-sdk';
@@ -139,7 +139,7 @@ const cairo = new Cairo({
 // Start using Cairo SDK
 const result = await cairo.ask("Your query here");
 console.log(result);
-🔧 Core API Methods
+# 🔧 Core API Methods
 CAIRO SDK exposes simple, high-level methods. All backend routing, skills vs MC-1 selection, and caching are automatic.
 
 ask()
